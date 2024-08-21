@@ -1,0 +1,100 @@
+-- Probability of receiving n cards --
+Pre-flop case:
+For 0 "out" card(s), 0.0%
+For 1 "out" card(s), 4.0%
+For 2 "out" card(s), 7.918367%
+For 3 "out" card(s), 11.755102%
+For 4 "out" card(s), 15.510204%
+For 5 "out" card(s), 19.183673%
+For 6 "out" card(s), 22.77551%
+For 7 "out" card(s), 26.285714%
+For 8 "out" card(s), 29.714286%
+For 9 "out" card(s), 33.061224%
+For 10 "out" card(s), 36.326531%
+For 11 "out" card(s), 39.510204%
+For 12 "out" card(s), 42.612245%
+For 13 "out" card(s), 45.632653%
+For 14 "out" card(s), 48.571429%
+For 15 "out" card(s), 51.428571%
+For 16 "out" card(s), 54.204082%
+For 17 "out" card(s), 56.897959%
+For 18 "out" card(s), 59.510204%
+For 19 "out" card(s), 62.040816%
+For 20 "out" card(s), 64.489796%
+For 21 "out" card(s), 66.857143%
+For 22 "out" card(s), 69.142857%
+For 23 "out" card(s), 71.346939%
+For 24 "out" card(s), 73.469388%
+For 25 "out" card(s), 75.510204%
+For 26 "out" card(s), 77.469388%
+For 27 "out" card(s), 79.346939%
+For 28 "out" card(s), 81.142857%
+For 29 "out" card(s), 82.857143%
+
+
+
+Flop case:
+For 0 "out" card(s), 0.0%
+For 1 "out" card(s), 4.255319%
+For 2 "out" card(s), 8.418131%
+For 3 "out" card(s), 12.488437%
+For 4 "out" card(s), 16.466235%
+For 5 "out" card(s), 20.351526%
+For 6 "out" card(s), 24.144311%
+For 7 "out" card(s), 27.844588%
+For 8 "out" card(s), 31.452359%
+For 9 "out" card(s), 34.967623%
+For 10 "out" card(s), 38.390379%
+For 11 "out" card(s), 41.720629%
+For 12 "out" card(s), 44.958372%
+For 13 "out" card(s), 48.103608%
+For 14 "out" card(s), 51.156337%
+For 15 "out" card(s), 54.116559%
+For 16 "out" card(s), 56.984274%
+For 17 "out" card(s), 59.759482%
+For 18 "out" card(s), 62.442183%
+For 19 "out" card(s), 65.032377%
+For 20 "out" card(s), 67.530065%
+For 21 "out" card(s), 69.935245%
+For 22 "out" card(s), 72.247919%
+For 23 "out" card(s), 74.468085%
+For 24 "out" card(s), 76.595745%
+For 25 "out" card(s), 78.630897%
+For 26 "out" card(s), 80.573543%
+For 27 "out" card(s), 82.423682%
+For 28 "out" card(s), 84.181314%
+For 29 "out" card(s), 85.846438%
+
+
+
+Turn case:
+For 0 "out" card(s), 0.0%
+For 1 "out" card(s), 4.347826%
+For 2 "out" card(s), 8.599034%
+For 3 "out" card(s), 12.753623%
+For 4 "out" card(s), 16.811594%
+For 5 "out" card(s), 20.772947%
+For 6 "out" card(s), 24.637681%
+For 7 "out" card(s), 28.405797%
+For 8 "out" card(s), 32.077295%
+For 9 "out" card(s), 35.652174%
+For 10 "out" card(s), 39.130435%
+For 11 "out" card(s), 42.512077%
+For 12 "out" card(s), 45.797101%
+For 13 "out" card(s), 48.985507%
+For 14 "out" card(s), 52.077295%
+For 15 "out" card(s), 55.072464%
+For 16 "out" card(s), 57.971014%
+For 17 "out" card(s), 60.772947%
+For 18 "out" card(s), 63.478261%
+For 19 "out" card(s), 66.086957%
+For 20 "out" card(s), 68.599034%
+For 21 "out" card(s), 71.014493%
+For 22 "out" card(s), 73.333333%
+For 23 "out" card(s), 75.555556%
+For 24 "out" card(s), 77.681159%
+For 25 "out" card(s), 79.710145%
+For 26 "out" card(s), 81.642512%
+For 27 "out" card(s), 83.478261%
+For 28 "out" card(s), 85.217391%
+For 29 "out" card(s), 86.859903%

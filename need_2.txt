@@ -1,0 +1,102 @@
+---- Probability of receiving n cards ----
+Pre-flop case:
+For 0 "out" card(s), 0.0%
+For 1 "out" card(s), 0.0%
+For 2 "out" card(s), 0.72%
+For 3 "out" card(s), 2.05%
+For 4 "out" card(s), 3.92%
+For 5 "out" card(s), 6.24%
+For 6 "out" card(s), 8.93%
+For 7 "out" card(s), 11.92%
+For 8 "out" card(s), 15.14%
+For 9 "out" card(s), 18.54%
+For 10 "out" card(s), 22.06%
+For 11 "out" card(s), 25.64%
+For 12 "out" card(s), 29.25%
+For 13 "out" card(s), 32.84%
+For 14 "out" card(s), 36.38%
+For 15 "out" card(s), 39.83%
+For 16 "out" card(s), 43.17%
+For 17 "out" card(s), 46.36%
+For 18 "out" card(s), 49.4%
+For 19 "out" card(s), 52.27%
+For 20 "out" card(s), 54.94%
+For 21 "out" card(s), 57.41%
+For 22 "out" card(s), 59.68%
+For 23 "out" card(s), 61.73%
+For 24 "out" card(s), 63.57%
+For 25 "out" card(s), 65.2%
+For 26 "out" card(s), 66.61%
+For 27 "out" card(s), 67.81%
+For 28 "out" card(s), 68.81%
+For 29 "out" card(s), 69.62%
+For 30 "out" card(s), 70.23%
+For 31 "out" card(s), 70.68%
+For 32 "out" card(s), 70.96%
+For 33 "out" card(s), 71.08%
+For 34 "out" card(s), 71.07%
+For 35 "out" card(s), 70.93%
+For 36 "out" card(s), 70.67%
+For 37 "out" card(s), 70.32%
+For 38 "out" card(s), 69.88%
+For 39 "out" card(s), 69.36%
+For 40 "out" card(s), 68.79%
+For 41 "out" card(s), 68.17%
+For 42 "out" card(s), 67.51%
+For 43 "out" card(s), 66.83%
+For 44 "out" card(s), 66.12%
+For 45 "out" card(s), 65.41%
+
+
+Flop case:
+For 0 "out" card(s), 0.0%
+For 1 "out" card(s), 0.0%
+For 2 "out" card(s), 0.09%
+For 3 "out" card(s), 0.28%
+For 4 "out" card(s), 0.56%
+For 5 "out" card(s), 0.93%
+For 6 "out" card(s), 1.39%
+For 7 "out" card(s), 1.94%
+For 8 "out" card(s), 2.59%
+For 9 "out" card(s), 3.33%
+For 10 "out" card(s), 4.16%
+For 11 "out" card(s), 5.09%
+For 12 "out" card(s), 6.11%
+For 13 "out" card(s), 7.22%
+For 14 "out" card(s), 8.42%
+For 15 "out" card(s), 9.71%
+For 16 "out" card(s), 11.1%
+For 17 "out" card(s), 12.58%
+For 18 "out" card(s), 14.15%
+For 19 "out" card(s), 15.82%
+For 20 "out" card(s), 17.58%
+For 21 "out" card(s), 19.43%
+For 22 "out" card(s), 21.37%
+For 23 "out" card(s), 23.4%
+For 24 "out" card(s), 25.53%
+For 25 "out" card(s), 27.75%
+For 26 "out" card(s), 30.06%
+For 27 "out" card(s), 32.47%
+For 28 "out" card(s), 34.97%
+For 29 "out" card(s), 37.56%
+For 30 "out" card(s), 40.24%
+For 31 "out" card(s), 43.02%
+For 32 "out" card(s), 45.88%
+For 33 "out" card(s), 48.84%
+For 34 "out" card(s), 51.9%
+For 35 "out" card(s), 55.04%
+For 36 "out" card(s), 58.28%
+For 37 "out" card(s), 61.61%
+For 38 "out" card(s), 65.03%
+For 39 "out" card(s), 68.55%
+For 40 "out" card(s), 72.16%
+For 41 "out" card(s), 75.86%
+For 42 "out" card(s), 79.65%
+For 43 "out" card(s), 83.53%
+For 44 "out" card(s), 87.51%
+For 45 "out" card(s), 91.58%
+
+
+
+Turn case:
+Always 0%

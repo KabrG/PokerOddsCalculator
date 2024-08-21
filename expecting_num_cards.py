@@ -13,7 +13,7 @@ def need_cards(cards_remaining: int = 50, cards_needed: int = 1):
         outcomes_with_card = 0
         for i in range(cards_to_be_shown):
             # Pick one from the outs, then the rest from the deck
-            if cards_needed < cards_to_be_shown - i: # Allows for picking 2 or more cards
+            if cards_needed > cards_to_be_shown - i: # Allows for picking 2 or more cards
                 continue
             else :
                 outcomes_with_card += comb(n, cards_to_be_shown - i) * comb(cards_remaining - n - cards_to_be_shown + i, i)
